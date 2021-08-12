@@ -1,6 +1,6 @@
 ### Hellows! I'm Caue Lugli 👋
 
-## I'm a Husband, Father and Developer.
+## I'm a Beginner Developer.
 - 🌱 I’m currently learning ReactJS and NodeJS
 - 👯 I’m looking to collaborate with other projects
 - 🥅 2021 Goals: Start a real app
