@@ -1,9 +1,10 @@
 ### Hellows! I'm Caue Lugli 👋
 
-## I'm a Beginner Developer.
-- 🌱 I’m currently learning ReactJS and NodeJS... but Python is always💕
+## I'm a Junior Developer.
+- 🌱 I’m currently learning ReactJS and NodeJS... but Python is always in my 💕 in a promiscuous way ;)
 - 👯 I’m looking to collaborate with other projects
 - 🥅 2021 Goals: Start a real app
+- 🥅 2022 Goals: Start a career as Web Developer
 
 <br />
 
