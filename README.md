@@ -1,7 +1,7 @@
 ### Hellows! I'm Caue Lugli 👋
 
 ## I'm a Web Developer.
-- 🌱 I’m currently learning ReactJS and NodeJS.
+- 🌱 I’m currently learning NodeJS.
 - 👯 I’m looking to collaborate with other projects
 - 🥅 2022 Goals: Start a career as Web Developer
 
