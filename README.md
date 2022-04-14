@@ -1,6 +1,6 @@
 ### Hellows! I'm Caue Lugli 👋
 
-## I'm a Web Developer.
+## I'm a Software Developer.
 - 🌱 I’m currently learning JavaScript.
 
 <br />
