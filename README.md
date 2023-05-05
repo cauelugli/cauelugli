@@ -2,7 +2,7 @@
 
 ## I'm a Writer and Software Developer.
 - 🌱 I’m currently learning JavaScript.
-Check out my website! cauebooks.com.br (portuguese pt-br only, for a while)
+Check out my website! <a href="cauebooks.com.br">cauebooks.com.br</a> (portuguese pt-br only, for a while)
 
 <br />
 
