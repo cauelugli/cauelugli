@@ -1,7 +1,8 @@
 ### Hellows! I'm Caue Lugli 👋
 
-## I'm a Software Developer.
+## I'm a Writer and Software Developer.
 - 🌱 I’m currently learning JavaScript.
+Check out my website! cauebooks.com.br (portuguese pt-br only, for a while)
 
 <br />
 
