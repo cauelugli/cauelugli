@@ -1,8 +1,4 @@
-### Hellos! I'm Caue Lugli 👋
-
-## I'm a Writer and Software Developer.
-- 🌱 I’m currently learning React JS.
-Check out my website! <a href="https://cauebooks.com.br">cauebooks.com.br</a> (portuguese pt-br only, for a while)
+### Hellows! I'm Caue Lugli 👋
 
 <br />
 
